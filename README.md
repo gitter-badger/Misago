@@ -1,5 +1,7 @@
 # Misago [![Build Status](https://travis-ci.org/rafalp/Misago.png?branch=master)](https://travis-ci.org/rafalp/Misago)
 
+[![Join the chat at https://gitter.im/Misago/Misago](https://badges.gitter.im/Misago/Misago.svg)](https://gitter.im/Misago/Misago?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Misago is an internet forum application written in Python and using Django as its foundation.
 Visit project homepage for discussion and demo: <http://misago-project.org>
 
